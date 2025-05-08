@@ -1,4 +1,4 @@
-                                                                TypeScript, both interface and types can used to defines the shape of a object. Their are some different in their feature and use: 
+TypeScript, both interface and types can used to defines the shape of a object. Their are some different in their feature and use: 
 
 Interface:
 
