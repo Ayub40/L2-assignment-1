@@ -30,7 +30,7 @@ Example:
         display: string;
     }
 ================================================================================================
-================================================================================================
+
 2.What is type inference in TypeScript? Why is it helpful?
 
  Type inference in TypeScript automaticly determines types based on value or context, reducing the need for explicit annotation.
