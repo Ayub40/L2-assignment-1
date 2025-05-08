@@ -1,4 +1,4 @@
-TypeScript, both interface and types can used to defines the shape of a object. Their are some different in their feature and use: 
+1.TypeScript, both interface and types can used to defines the shape of a object. Their are some different in their feature and use: 
 
 Interface:
 
@@ -29,5 +29,13 @@ Example:
         model: string;
         display: string;
     }
-    
+
+2.What is type inference in TypeScript? Why is it helpful?
+
+ Type inference in TypeScript automaticly determines types based on value or context, reducing the need for explicit annotation.
+
+ Why is it helpful?
+  a. Code is more concise.
+  b. Errors are caught early.
+
    
